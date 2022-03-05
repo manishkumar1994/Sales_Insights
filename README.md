@@ -72,6 +72,9 @@ The dashboard will allow the sales team to make better decisions and stop manual
    https://prod-uk-a.online.tableau.com/#/site/projectsalesinsights/workbooks/113496/views
    
   ![image](https://user-images.githubusercontent.com/88727612/156886191-4fd12c90-b0e8-49d9-a68e-a066e273842b.png)
+  
+  ![image](https://user-images.githubusercontent.com/88727612/156886248-d8630568-8388-45f4-8050-c9b0cf0b4f2d.png)
+
    
    
 
