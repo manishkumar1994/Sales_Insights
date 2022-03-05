@@ -7,7 +7,7 @@
 In this project, the objective is to create dashboard which can be used to unlock sales insight that are not visible before for sales team for decision support and automate them to reduced manual time spent in data gathering
 
 ## Motivation
-The motivation waA to understand more about the business analytics tools that are widely used in companies and also to get some hands-on experience with Power BI and Tableau.
+The motivation was to understand more about the business analytics tools that are widely used in companies and also to get some hands-on experience with Power BI and Tableau.
 
 •	The goal is to create an automated dashboard providing quick and latest sales insight to support data driven decision making.
 
